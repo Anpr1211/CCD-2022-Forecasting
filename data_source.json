@@ -1,0 +1,9 @@
+{"local_address":"<address of raw data>",
+ "headers":["uid", "name", "phone", "photo_url", "blog", "github", "linkedin",
+       "about", "student", "creation_timestamp", "email", "conference",
+       "confirm", "self_phone", "diet", "self_email", "self_name",
+       "organization", "pronoun", "role", "tsize", "understand", "workshop",
+       "city", "Unnamed: 24", "Reviewer 1", "Reviewer 2", "Reviewer 3",
+       "Unnamed: 28", "Result", "Veto By", "Veto Reason", "Mailed", "TicketID",
+       "Generated Ticket"]
+}
